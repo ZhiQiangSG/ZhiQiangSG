@@ -9,7 +9,7 @@ Some facts about me:
 - 🇸🇬 I'm based in Singapore.
 - 🏫 I'm currently studying at Singapore University of Technology and Design (SUTD).
 - 🎓 Expected graduation: May 2027
-- 🖥 I blog at [AtInflection](atinflection.com).
+- 🖥 I blog at https://www.atinflection.com
 - 🌱 I’m currently learning Python.
 - 🔭 I’m currently working on Machine Learning.
 
